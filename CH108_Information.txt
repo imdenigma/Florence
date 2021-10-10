@@ -1,0 +1,17 @@
+Team ID: CH108
+
+Team Members: 
+Sumaiya Islam Mouno
+sumaiya.islam.cse@ulab.edu.bd
+01885507856
+
+Mahin Mustafiz Sami
+mahin.mustafiz.cse@ulab.edu.bd
+01797119349
+
+Arunangshu Mojumder Raatul
+arunangshu.mojumder.cse@ulab.edu.bd
+01400447008
+
+Short Description of the Project:
+Florence is a Virtual medical assistant who can put a full stop to the hassle every users face while taking a doctor's appointment, finding a proper hospital nearby, knowing the health issue or simply the crowd of the pharmacy. To solve this Florence fixes appointments on its own either a regular or emergency one, allows users to find hospitals nearby and also allows a pick-up function where users can pick medicines up from the pharmacy without being in a crowd. Plus the user's medical report can also be accessed at any point of time.
